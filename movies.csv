@@ -1,0 +1,711 @@
+,Title,Released_year,run_time,rating,certificate,genre,votes,meta_score,director,gross
+1,Tenet,2020,150,7.3,U/A,"Action, Sci-Fi, Thriller","592,946",69,Christopher Nolan,58.46
+2,The Irishman,2019,209,7.8,16,"Biography, Crime, Drama","431,242",94,Martin Scorsese,7
+3,Midsommar,2019,148,7.1,A,"Drama, Horror, Mystery","403,598",72,Ari Aster,27.33
+4,John Wick: Chapter 3 - Parabellum,2019,130,7.4,A,"Action, Crime, Thriller","425,986",73,Chad Stahelski,171.02
+5,Us,2019,116,6.8,A,"Horror, Mystery, Thriller","341,298",81,Jordan Peele,175.08
+6,A Star Is Born,2018,136,7.6,A,"Drama, Music, Romance","419,521",88,Bradley Cooper,215.29
+7,Mission: Impossible - Fallout,2018,147,7.7,U/A,"Action, Adventure, Thriller","378,259",87,Christopher McQuarrie,220.16
+8,Deadpool 2,2018,119,7.6,R,"Action, Adventure, Comedy","646,004",66,David Leitch,324.59
+9,A Quiet Place,2018,90,7.5,A,"Drama, Horror, Sci-Fi","583,783",82,John Krasinski,188.02
+10,Hereditary,2018,127,7.3,A,"Drama, Horror, Mystery","378,367",87,Ari Aster,44.07
+11,Three Identical Strangers,2018,96,7.6,PG-13,"Documentary, Biography, Drama","39,795",81,Tim Wardle,12.32
+12,The Post,2017,116,7.2,U/A,"Biography, Drama, History","162,341",83,Steven Spielberg,81.9
+13,Star Wars: Episode VIII - The Last Jedi,2017,152,6.9,U/A,"Action, Adventure, Fantasy","672,159",84,Rian Johnson,620.18
+14,Thor: Ragnarok,2017,130,7.9,U/A,"Action, Adventure, Comedy","816,357",74,Taika Waititi,315.06
+15,Blade Runner 2049,2017,164,8,U/A,"Action, Drama, Mystery","665,587",81,Denis Villeneuve,92.05
+16,Molly's Game,2017,140,7.4,R,"Biography, Crime, Drama","187,825",71,Aaron Sorkin,28.78
+17,"I, Tonya",2017,119,7.5,R,"Biography, Comedy, Drama","242,830",77,Craig Gillespie,30.01
+18,"Three Billboards Outside Ebbing, Missouri",2017,115,8.1,A,"Comedy, Crime, Drama","555,218",88,Martin McDonagh,54.51
+19,The Shape of Water,2017,123,7.3,A,"Drama, Fantasy, Romance","447,766",87,Guillermo del Toro,63.86
+20,Detroit,2017,143,7.3,R,"Crime, Drama, History","55,963",77,Kathryn Bigelow,16.79
+21,Dunkirk,2017,106,7.8,U/A,"Action, Drama, History","740,370",94,Christopher Nolan,188.37
+22,Guardians of the Galaxy Vol. 2,2017,136,7.6,U/A,"Action, Adventure, Comedy","759,859",67,James Gunn,389.81
+23,Baby Driver,2017,113,7.5,U/A,"Action, Crime, Drama","611,361",86,Edgar Wright,107.83
+24,Logan,2017,137,8.1,A,"Action, Drama, Sci-Fi","831,757",77,James Mangold,226.28
+25,Get Out,2017,104,7.8,15+,"Horror, Mystery, Thriller","697,260",85,Jordan Peele,176.04
+26,Patriots Day,2016,133,7.3,A,"Action, Crime, Drama","112,496",69,Peter Berg,31.89
+27,Supersonic,2016,122,7.8,R,"Documentary, Biography, Music","12,390",71,Mat Whitecross,0.24
+28,The Edge of Seventeen,2016,104,7.3,18,"Comedy, Drama","140,225",77,Kelly Fremon Craig,14.43
+29,A Monster Calls,2016,108,7.4,U/A,"Adventure, Drama, Family","93,856",76,J.A. Bayona,3.74
+30,Free Fire,2016,91,6.3,U/A,"Action, Comedy, Crime","50,731",63,Ben Wheatley,1.8
+31,Hacksaw Ridge,2016,139,8.1,A,"Biography, Drama, History","594,483",71,Mel Gibson,67.21
+32,Nocturnal Animals,2016,116,7.5,13,"Drama, Thriller","304,760",67,Tom Ford,10.66
+33,Arrival,2016,116,7.9,U/A,"Drama, Mystery, Sci-Fi","771,539",81,Denis Villeneuve,100.55
+34,La La Land,2016,128,8,A,"Comedy, Drama, Music","671,863",94,Damien Chazelle,151.1
+35,Kubo and the Two Strings,2016,101,7.7,U,"Animation, Action, Adventure","138,440",84,Travis Knight,48.02
+36,Hell or High Water,2016,102,7.6,13,"Crime, Drama, Thriller","252,617",88,David Mackenzie,27.01
+37,The Nice Guys,2016,116,7.4,18,"Action, Comedy, Crime","373,668",70,Shane Black,36.26
+38,The Jungle Book,2016,106,7.4,U/A,"Animation, Action, Adventure","292,132",77,Jon Favreau,364
+39,Sing Street,2016,106,7.9,PG-13,"Comedy, Drama, Music","100,963",79,John Carney,3.24
+40,Manchester by the Sea,2016,137,7.8,U/A,Drama,"313,896",96,Kenneth Lonergan,47.7
+41,Captain Fantastic,2016,118,7.8,18,"Comedy, Drama","235,161",72,Matt Ross,5.88
+42,Deadpool,2016,108,8,R,"Action, Comedy","1,126,053",65,Tim Miller,363.07
+43,The Revenant,2015,156,8,A,"Action, Adventure, Drama","874,598",76,Alejandro G. Iñárritu,183.64
+44,Star Wars: Episode VII - The Force Awakens,2015,138,7.8,U,"Action, Adventure, Sci-Fi","973,893",80,J.J. Abrams,936.66
+45,The Hateful Eight,2015,168,7.8,A,"Crime, Drama, Mystery","660,084",68,Quentin Tarantino,54.12
+46,Creed,2015,133,7.6,U/A,"Action, Drama, Sport","310,940",82,Ryan Coogler,109.77
+47,The Martian,2015,144,8,U/A,"Adventure, Drama, Sci-Fi","925,795",80,Ridley Scott,228.43
+48,Steve Jobs,2015,122,7.2,A,"Biography, Drama","178,591",82,Danny Boyle,17.77
+49,Room,2015,118,8.1,U,"Drama, Thriller","450,657",86,Lenny Abrahamson,14.68
+50,Spotlight,2015,129,8.1,A,"Biography, Crime, Drama","502,283",93,Tom McCarthy,45.06
+51,Mission: Impossible - Rogue Nation,2015,131,7.4,U/A,"Action, Adventure, Thriller","411,043",75,Christopher McQuarrie,195.04
+52,Sicario,2015,121,7.7,A,"Action, Crime, Drama","476,946",82,Denis Villeneuve,46.89
+53,Amy,2015,128,7.8,A,"Documentary, Biography, Music","55,087",85,Asif Kapadia,8.41
+54,The Lobster,2015,119,7.1,R,"Drama, Romance, Sci-Fi","296,675",82,Yorgos Lanthimos,8.7
+55,Mad Max: Fury Road,2015,120,8.1,U/A,"Action, Adventure, Sci-Fi","1,086,854",90,George Miller,154.06
+56,Fast & Furious 7,2015,137,7.1,A,"Action, Crime, Thriller","414,857",67,James Wan,353.01
+57,Dope,2015,103,7.2,R,"Adventure, Comedy, Crime","89,327",72,Rick Famuyiwa,17.51
+58,Paddington,2014,95,7.3,U,"Adventure, Comedy, Family","133,675",77,Paul King,76.27
+59,Interstellar,2014,169,8.7,U/A,"Adventure, Drama, Sci-Fi","2,101,257",74,Christopher Nolan,188.02
+60,Gone Girl,2014,149,8.1,A,"Drama, Mystery, Thriller","1,067,722",79,David Fincher,167.77
+61,John Wick,2014,101,7.4,A,"Action, Crime, Thriller","739,342",68,Chad Stahelski,43.04
+62,Song of the Sea,2014,93,8,PG,"Animation, Adventure, Drama","63,130",85,Tomm Moore,0.86
+63,Top Five,2014,102,6.4,R,"Comedy, Romance","27,650",81,Chris Rock,25.28
+64,Nightcrawler,2014,117,7.8,A,"Crime, Drama, Thriller","604,815",76,Dan Gilroy,32.38
+65,Birdman or (The Unexpected Virtue of Ignorance),2014,119,7.7,A,"Comedy, Drama","666,651",87,Alejandro G. Iñárritu,42.34
+66,Guardians of the Galaxy,2014,121,8,U/A,"Action, Adventure, Comedy","1,273,705",76,James Gunn,333.18
+67,Dawn of the Planet of the Apes,2014,130,7.6,U/A,"Action, Adventure, Drama","469,435",79,Matt Reeves,208.55
+68,Edge of Tomorrow,2014,113,7.9,U/A,"Action, Adventure, Sci-Fi","737,217",71,Doug Liman,100.21
+69,The Rover,2014,103,6.4,R,"Action, Crime, Drama","51,185",64,David Michôd,1.11
+70,It Follows,2014,100,6.8,18,"Horror, Mystery, Thriller","269,107",83,David Robert Mitchell,14.67
+71,How to Train Your Dragon 2,2014,102,7.8,U,"Animation, Action, Adventure","364,141",77,Dean DeBlois,177
+72,X-Men: Days of Future Past,2014,132,7.9,U/A,"Action, Adventure, Sci-Fi","745,367",75,Bryan Singer,233.92
+73,Noah,2014,138,5.8,U/A,"Action, Adventure, Drama","267,096",68,Darren Aronofsky,101.2
+74,The Grand Budapest Hotel,2014,99,8.1,U/A,"Adventure, Comedy, Crime","886,997",88,Wes Anderson,59.1
+75,Serbuan maut 2: Berandal,2014,150,7.9,A,"Action, Crime, Thriller","131,298",71,Gareth Evans,2.63
+76,Boyhood,2014,165,7.9,A,Drama,"367,217",100,Richard Linklater,25.38
+77,The Guest,2014,100,6.7,R,"Action, Mystery, Thriller","106,955",76,Adam Wingard,0.32
+78,Whiplash,2014,106,8.5,A,"Drama, Music","989,997",89,Damien Chazelle,13.09
+79,Nymphomaniac: Vol. I,2013,117,6.9,U/A,Drama,"131,566",64,Lars von Trier,0.79
+80,The Wolf of Wall Street,2013,180,8.2,A,"Biography, Comedy, Crime","1,583,978",75,Martin Scorsese,116.9
+81,The Hobbit: The Desolation of Smaug,2013,161,7.8,U/A,"Adventure, Drama, Fantasy","705,455",66,Peter Jackson,258.37
+82,The Hunger Games: Catching Fire,2013,146,7.5,U/A,"Action, Adventure, Sci-Fi","721,486",76,Francis Lawrence,424.67
+83,Her,2013,126,8,A,"Drama, Romance, Sci-Fi","669,846",91,Spike Jonze,25.57
+84,Captain Phillips,2013,134,7.8,U/A,"Action, Biography, Crime","492,789",82,Paul Greengrass,107.1
+85,Dallas Buyers Club,2013,117,7.9,R,"Biography, Drama","519,433",77,Jean-Marc Vallée,27.3
+86,Rush,2013,123,8.1,R,"Action, Biography, Drama","513,836",74,Ron Howard,26.95
+87,Prisoners,2013,153,8.2,A,"Crime, Drama, Mystery","809,916",70,Denis Villeneuve,61
+88,Joe,2013,117,6.8,R,"Crime, Drama, Thriller","51,218",74,David Gordon Green,0.37
+89,Gravity,2013,91,7.7,U/A,"Drama, Sci-Fi, Thriller","863,379",96,Alfonso Cuarón,274.09
+90,Snowpiercer,2013,126,7.1,A,"Action, Drama, Sci-Fi","389,127",84,Bong Joon Ho,4.56
+91,Alan Partridge: Alpha Papa,2013,90,6.9,R,"Action, Comedy, Crime","32,976",66,Declan Lowney,0.15
+92,The World's End,2013,109,6.9,U/A,"Action, Comedy, Sci-Fi","298,261",81,Edgar Wright,26
+93,Pacific Rim,2013,131,6.9,U/A,"Action, Adventure, Sci-Fi","531,026",65,Guillermo del Toro,101.8
+94,The Conjuring,2013,112,7.5,A,"Horror, Mystery, Thriller","555,056",68,James Wan,137.4
+95,Iron Man Three,2013,130,7.1,U/A,"Action, Adventure, Sci-Fi","899,458",62,Shane Black,409.01
+96,Side Effects,2013,106,7.1,18,"Crime, Drama, Mystery","197,161",75,Steven Soderbergh,32.17
+97,Blackfish,2013,83,8.1,PG-13,Documentary,"72,458",83,Gabriela Cowperthwaite,2.07
+98,The Spectacular Now,2013,95,7,A,"Drama, Romance","161,406",82,James Ponsoldt,6.85
+99,Django Unchained,2012,165,8.5,A,"Drama, Western","1,695,880",81,Quentin Tarantino,162.81
+100,Zero Dark Thirty,2012,157,7.4,A,"Drama, History, Thriller","318,984",95,Kathryn Bigelow,95.72
+101,Skyfall,2012,143,7.8,U/A,"Action, Adventure, Thriller","731,245",81,Sam Mendes,304.36
+102,Life of Pi,2012,127,7.9,U,"Adventure, Drama, Fantasy","666,991",79,Ang Lee,124.99
+103,Silver Linings Playbook,2012,122,7.7,A,"Comedy, Drama, Romance","742,902",81,David O. Russell,132.09
+104,End of Watch,2012,109,7.6,A,"Action, Crime, Drama","269,179",68,David Ayer,41
+105,The Place Beyond the Pines,2012,140,7.3,A,"Crime, Drama, Thriller","290,454",68,Derek Cianfrance,21.38
+106,Seven Psychopaths,2012,110,7.1,R,"Comedy, Crime","273,992",66,Martin McDonagh,15.02
+107,Looper,2012,119,7.4,A,"Action, Drama, Sci-Fi","603,087",84,Rian Johnson,66.49
+108,Spring Breakers,2012,94,5.3,R,"Crime, Drama, Thriller","148,818",63,Harmony Korine,14.12
+109,The Master,2012,138,7.1,A,"Drama, History","186,251",86,Paul Thomas Anderson,16.38
+110,Argo,2012,120,7.7,A,"Biography, Drama, History","639,255",86,Ben Affleck,136.03
+111,The Dark Knight Rises,2012,164,8.4,U/A,"Action, Drama, Thriller","1,828,002",78,Christopher Nolan,448.14
+112,Ted,2012,106,6.9,A,Comedy,"657,714",62,Seth MacFarlane,218.82
+113,Mud,2012,130,7.4,U/A,"Adventure, Drama","188,887",76,Jeff Nichols,21.59
+114,No,2012,118,7.4,R,"Drama, History","26,224",81,Pablo Larraín,2.34
+115,De rouille et d'os,2012,120,7.4,R,"Drama, Romance","70,314",73,Jacques Audiard,2.06
+116,Moonrise Kingdom,2012,94,7.8,A,"Adventure, Comedy, Drama","366,806",84,Wes Anderson,45.51
+117,Prometheus,2012,124,7,A,"Adventure, Mystery, Sci-Fi","644,376",64,Ridley Scott,126.48
+118,The Avengers,2012,143,8,U/A,"Action, Sci-Fi","1,459,685",69,Joss Whedon,623.28
+119,Marley,2012,144,7.9,PG-13,"Documentary, Biography, Music","14,496",82,Kevin Macdonald,1.41
+120,The Imposter,2012,99,7.5,R,"Documentary, Biography, Crime","50,468",77,Bart Layton,0.89
+121,Arbitrage,2012,107,6.6,A,"Drama, Thriller","54,848",73,Nicholas Jarecki,7.92
+122,The Queen of Versailles,2012,103,7.1,PG,Documentary,"13,702",80,Lauren Greenfield,2.4
+123,The Girl with the Dragon Tattoo,2011,158,7.8,(Banned),"Crime, Drama, Mystery","494,964",71,David Fincher,102.52
+124,The Cabin in the Woods,2011,95,7,A,"Horror, Mystery, Thriller","450,866",72,Drew Goddard,42.07
+125,Young Adult,2011,94,6.3,PG,"Comedy, Drama","87,939",71,Jason Reitman,16.31
+126,Mission: Impossible - Ghost Protocol,2011,132,7.4,U/A,"Action, Adventure, Thriller","528,547",73,Brad Bird,209.4
+127,The Muppets,2011,120,7.1,U,"Adventure, Comedy, Family","96,880",75,James Bobin,88.63
+128,The Adventures of Tintin,2011,107,7.3,U,"Animation, Action, Adventure","243,278",68,Steven Spielberg,77.59
+129,Hugo,2011,126,7.5,U,"Adventure, Drama, Family","336,876",83,Martin Scorsese,73.86
+130,You're Next,2011,95,6.6,R,"Drama, Horror, Thriller","109,480",66,Adam Wingard,18.47
+131,Goon,2011,92,6.8,R,"Comedy, Drama, Sport","90,812",64,Michael Dowse,4.17
+132,Moneyball,2011,133,7.6,U,"Biography, Drama, Sport","464,774",87,Bennett Miller,75.61
+133,Serbuan maut,2011,101,7.6,A,"Action, Crime, Thriller","217,121",73,Gareth Evans,4.11
+134,Killer Joe,2011,102,6.7,A,"Crime, Drama, Thriller","83,338",62,William Friedkin,1.99
+135,Tinker Tailor Soldier Spy,2011,127,7,A,"Drama, Mystery, Thriller","212,556",85,Tomas Alfredson,24.15
+136,Shame,2011,101,7.2,(Banned),Drama,"206,278",72,Steve McQueen,4
+137,Into the Abyss,2011,107,7.3,PG-13,"Documentary, Crime, Drama","17,354",74,Werner Herzog,0.22
+138,Hodejegerne,2011,100,7.5,R,"Action, Crime, Thriller","106,987",72,Morten Tyldum,1.2
+139,Rise of the Planet of the Apes,2011,105,7.6,U/A,"Action, Drama, Sci-Fi","559,448",68,Rupert Wyatt,176.76
+140,Bernie,2011,99,6.8,PG-13,"Biography, Comedy, Crime","63,467",75,Richard Linklater,9.2
+141,X: First Class,2011,131,7.7,U/A,"Action, Sci-Fi","723,894",65,Matthew Vaughn,146.41
+142,Drive,2011,100,7.8,A,"Action, Drama","704,692",79,Nicolas Winding Refn,35.06
+143,La piel que habito,2011,120,7.6,R,"Drama, Mystery, Thriller","165,923",70,Pedro Almodóvar,3.19
+144,The Tree of Life,2011,139,6.8,U/A,"Drama, Fantasy","184,154",85,Terrence Malick,13.3
+145,The Artist,2011,100,7.9,U,"Comedy, Drama, Romance","248,637",89,Michel Hazanavicius,44.67
+146,We Need to Talk About Kevin,2011,112,7.5,R,"Drama, Mystery, Thriller","167,799",68,Lynne Ramsay,1.74
+147,Midnight in Paris,2011,94,7.6,PG-13,"Comedy, Fantasy, Romance","449,963",81,Woody Allen,56.82
+148,Bridesmaids,2011,125,6.8,UA 16+,Comedy,"309,288",75,Paul Feig,169.11
+149,Fast Five,2011,130,7.3,U/A,"Action, Crime, Thriller","407,269",66,Justin Lin,209.84
+150,Source Code,2011,93,7.5,U/A,"Action, Drama, Mystery","549,912",74,Duncan Jones,54.71
+151,The Lincoln Lawyer,2011,118,7.3,A,"Crime, Drama, Mystery","253,827",63,Brad Furman,58.01
+152,Rango,2011,107,7.3,U,"Animation, Action, Adventure","293,152",75,Gore Verbinski,123.48
+153,Jodaeiye Nader az Simin,2011,123,8.3,7,Drama,"258,606",95,Asghar Farhadi,7.1
+154,Margin Call,2011,107,7.1,18,"Drama, Thriller","144,366",76,J.C. Chandor,5.35
+155,Win Win,2011,106,7.1,R,"Comedy, Drama, Sport","55,266",75,Tom McCarthy,10.18
+156,Knuckle,2011,97,6.8,R,"Documentary, Biography, Drama","3,233",65,Ian Palmer,0
+157,The Guard,2011,96,7.3,R,"Comedy, Crime, Thriller","95,638",78,John Michael McDonagh,5.36
+158,Project Nim,2011,93,7.4,PG-13,Documentary,"8,601",83,James Marsh,0.41
+159,The Fighter,2010,116,7.8,U/A,"Action, Biography, Drama","388,972",79,David O. Russell,93.62
+160,Trolljegeren,2010,103,6.9,PG-13,"Drama, Fantasy, Thriller","79,567",61,André Øvredal,0.25
+161,Senna,2010,106,8.5,PG-13,"Documentary, Biography, Sport","75,834",79,Asif Kapadia,1.61
+162,The Social Network,2010,120,7.8,U/A,"Biography, Drama","758,968",95,David Fincher,96.96
+163,Stake Land,2010,98,6.4,R,"Drama, Horror, Sci-Fi","44,150",66,Jim Mickle,0.02
+164,Easy A,2010,92,7,A,"Comedy, Drama, Romance","418,114",72,Will Gluck,58.4
+165,Jûsan-nin no shikaku,2010,141,7.5,R,"Action, Adventure, Drama","68,626",84,Takashi Miike,0.8
+166,The Town,2010,125,7.5,A,"Crime, Drama, Thriller","415,890",74,Ben Affleck,92.19
+167,Hours,2010,94,7.5,U/A,"Biography, Drama","401,496",82,Danny Boyle,18.34
+168,Incendies,2010,131,8.3,18,"Drama, Mystery, War","200,425",80,Denis Villeneuve,6.86
+169,Black Swan,2010,108,8,A,"Drama, Thriller","825,088",79,Darren Aronofsky,106.95
+170,The Other Guys,2010,107,6.6,A,"Action, Comedy, Crime","288,434",64,Adam McKay,119.22
+171,Scott Pilgrim vs. the World,2010,112,7.6,U,"Action, Comedy, Fantasy","465,471",69,Edgar Wright,31.49
+172,Inception,2010,148,8.8,U/A,"Action, Adventure, Sci-Fi","2,551,744",74,Christopher Nolan,292.58
+173,Toy Story 3,2010,103,8.3,U,"Animation, Adventure, Comedy","892,715",92,Lee Unkrich,415
+174,Get Him to the Greek,2010,109,6.3,A,"Comedy, Music","185,666",65,Nicholas Stoller,60.97
+175,Kick-Ass,2010,117,7.6,U/A,"Action, Comedy, Crime","593,509",66,Matthew Vaughn,48.07
+176,Shutter Island,2010,138,8.2,A,"Drama, Mystery, Thriller","1,457,421",63,Martin Scorsese,128.01
+177,The Ghost Writer,2010,128,7.2,PG-13,"Crime, Drama, Mystery","170,839",77,Roman Polanski,15.54
+178,Blue Valentine,2010,112,7.3,18,"Drama, Romance","211,403",81,Derek Cianfrance,9.74
+179,Exit Through the Gift Shop,2010,87,7.9,R,"Documentary, Comedy, Crime","68,830",85,Banksy,3.29
+180,Four Lions,2010,97,7.3,R,"Comedy, Crime, Drama","85,313",68,Christopher Morris,0.3
+181,Tucker and Dale vs Evil,2010,89,7.5,R,"Comedy, Horror","193,588",65,Eli Craig,0.22
+182,Animal Kingdom,2010,113,7.2,R,"Crime, Drama, Thriller","60,517",83,David Michôd,1.04
+183,Winter's Bone,2010,100,7.1,R,"Crime, Drama, Mystery","150,574",90,Debra Granik,6.53
+184,Avatar,2009,162,7.9,U/A,"Action, Adventure, Fantasy","1,386,767",83,James Cameron,760.51
+185,Fantastic Mr. Fox,2009,87,7.9,U,"Animation, Adventure, Comedy","270,456",83,Wes Anderson,21
+186,Splice,2009,104,5.8,R,"Horror, Sci-Fi","101,797",66,Vincenzo Natali,17
+187,Down Terrace,2009,93,6.4,R,"Crime, Drama","4,156",68,Ben Wheatley,0.01
+188,Zombieland,2009,88,7.5,A,"Action, Comedy, Horror","621,560",73,Ruben Fleischer,75.59
+189,Youth in Revolt,2009,90,6.4,R,"Comedy, Drama, Romance","76,107",63,Miguel Arteta,15.28
+190,Capitalism: A Love Story,2009,127,7.4,R,"Documentary, Crime, History","43,872",61,Michael Moore,14.36
+191,Up in the Air,2009,109,7.4,A,"Comedy, Drama, Romance","349,422",83,Jason Reitman,83.82
+192,The Bad Lieutenant: Port of Call - New Orleans,2009,122,6.6,R,"Crime, Drama, Mystery","80,914",69,Werner Herzog,1.7
+193,District 9,2009,112,7.9,A,"Action, Sci-Fi, Thriller","717,064",81,Neill Blomkamp,115.65
+194,El secreto de sus ojos,2009,129,8.2,R,"Drama, Mystery, Romance","222,452",80,Juan José Campanella,6.39
+195,The Hangover,2009,100,7.7,U/A,Comedy,"846,676",73,Todd Phillips,277.32
+196,Inglourious Basterds,2009,153,8.4,A,"Adventure, Drama, War","1,584,832",69,Quentin Tarantino,120.54
+197,Un prophète,2009,155,7.8,A,"Crime, Drama","102,197",90,Jacques Audiard,2.08
+198,Fish Tank,2009,123,7.3,U/A,Drama,"65,048",81,Andrea Arnold,0.37
+199,The Cove,2009,92,8.4,13,"Documentary, Biography, Crime","51,452",84,Louie Psihoyos,0.87
+200,State of Play,2009,127,7.1,U/A,"Crime, Drama, Mystery","160,449",64,Kevin Macdonald,37.02
+201,Star Trek,2009,127,7.9,U/A,"Action, Adventure, Sci-Fi","620,354",82,J.J. Abrams,257.73
+202,Drag Me to Hell,2009,99,6.6,U/A,Horror,"217,541",83,Sam Raimi,42.1
+203,Män som hatar kvinnor,2009,152,7.8,R,"Crime, Drama, Mystery","223,365",76,Niels Arden Oplev,10.1
+204,Moon,2009,97,7.8,R,"Drama, Mystery, Sci-Fi","376,786",67,Duncan Jones,5.01
+205,Adventureland,2009,107,6.8,U/A,"Comedy, Drama, Romance","169,013",76,Greg Mottola,16.03
+206,Black Dynamite,2009,84,7.4,R,"Action, Comedy","51,826",65,Scott Sanders,0.23
+207,The Curious Case of Benjamin Button,2008,166,7.8,U/A,"Drama, Fantasy, Romance","695,887",70,David Fincher,127.51
+208,Bronson,2008,92,7,U/A,"Action, Crime, Drama","140,918",71,Nicolas Winding Refn,0.1
+209,L'ennemi public n°1,2008,133,7.4,R,"Action, Biography, Crime","31,244",72,Jean-François Richet,0.28
+210,Role Models,2008,99,6.8,U/A,Comedy,"241,198",61,David Wain,67.29
+211,Frost/Nixon,2008,122,7.7,U,"Biography, Drama, History","112,481",80,Ron Howard,18.59
+212,L'instinct de mort,2008,113,7.5,R,"Action, Biography, Crime","35,295",71,Jean-François Richet,0.55
+213,The Wrestler,2008,109,7.9,U/A,"Drama, Sport","319,995",80,Darren Aronofsky,26.24
+214,The Hurt Locker,2008,131,7.5,A,"Drama, Thriller, War","473,917",95,Kathryn Bigelow,17.02
+215,Rachel Getting Married,2008,113,6.7,R,"Drama, Romance","51,248",85,Jonathan Demme,12.8
+216,Eden Lake,2008,91,6.7,A,"Horror, Thriller","94,887",65,James Watkins,0.01
+217,The Dark Knight,2008,152,9,U/A,"Action, Crime, Drama","2,871,725",84,Christopher Nolan,534.86
+218,Hellboy II: The Golden Army,2008,120,7,U/A,"Action, Adventure, Fantasy","285,993",78,Guillermo del Toro,75.75
+219,WALL·E,2008,98,8.4,U,"Animation, Adventure, Family","1,200,805",95,Andrew Stanton,223.81
+220,Wanted,2008,110,6.7,A,"Action, Crime, Thriller","408,667",64,Timur Bekmambetov,134.51
+221,"Synecdoche, New York",2008,124,7.5,R,Drama,"98,253",67,Charlie Kaufman,3.08
+222,Changeling,2008,141,7.8,A,"Biography, Crime, Drama","265,311",63,Clint Eastwood,35.74
+223,Vals Im Bashir,2008,90,8,A,"Documentary, Animation, Biography","60,417",91,Ari Folman,2.28
+224,Iron Man,2008,126,7.9,U/A,"Action, Adventure, Sci-Fi","1,125,200",79,Jon Favreau,318.41
+225,Redbelt,2008,99,6.7,R,"Drama, Sport","21,520",69,David Mamet,2.34
+226,Låt den rätte komma in,2008,114,7.8,R,"Drama, Fantasy, Horror","226,815",82,Tomas Alfredson,2.12
+227,Gonzo: The Life and Work of Dr. Hunter S. Thompson,2008,120,7.6,R,"Documentary, Biography, Music","8,503",73,Alex Gibney,1.25
+228,The Wackness,2008,99,6.9,R,"Comedy, Drama, Romance","31,271",61,Jonathan Levine,2.08
+229,In Bruges,2008,107,7.9,R,"Comedy, Crime, Drama","461,614",67,Martin McDonagh,7.76
+230,Cloverfield,2008,85,7,A,"Horror, Sci-Fi, Thriller","420,794",64,Matt Reeves,80.05
+231,American Gangster,2007,157,7.8,A,"Biography, Crime, Drama","452,651",76,Ridley Scott,130.16
+232,There Will Be Blood,2007,158,8.2,A,Drama,"641,324",93,Paul Thomas Anderson,40.22
+233,Eastern Promises,2007,100,7.6,R,"Crime, Drama, Thriller","261,199",83,David Cronenberg,17.11
+234,Before the Devil Knows You're Dead,2007,117,7.3,R,"Crime, Drama, Thriller","111,712",86,Sidney Lumet,7.08
+235,Gone Baby Gone,2007,114,7.6,A,"Crime, Drama, Mystery","293,016",72,Ben Affleck,20.3
+236,I'm Not There,2007,135,6.8,R,"Biography, Drama, Music","61,192",73,Todd Haynes,4.02
+237,Juno,2007,96,7.4,16,"Comedy, Drama","549,340",81,Jason Reitman,143.5
+238,Michael Clayton,2007,119,7.2,A,"Crime, Drama, Mystery","174,089",82,Tony Gilroy,49.03
+239,Atonement,2007,123,7.8,U/A,"Drama, Mystery, Romance","299,913",85,Joe Wright,50.93
+240,Superbad,2007,113,7.6,A,Comedy,"632,952",76,Greg Mottola,121.46
+241,The Bourne Ultimatum,2007,115,8,U/A,"Action, Mystery, Thriller","658,353",85,Paul Greengrass,227.47
+242,El orfanato,2007,105,7.4,R,"Drama, Horror, Mystery","163,632",74,J.A. Bayona,7.16
+243,Sicko,2007,123,8,PG-13,"Documentary, Drama","76,831",74,Michael Moore,24.54
+244,Control,2007,122,7.6,R,"Biography, Drama, Music","68,566",78,Anton Corbijn,0.87
+245,Taxi to the Dark Side,2007,106,7.5,R,"Documentary, Crime, History","16,806",82,Alex Gibney,0.27
+246,Weeks Later,2007,100,6.9,R,"Horror, Sci-Fi","293,920",78,Juan Carlos Fresnadillo,28.64
+247,The King of Kong,2007,79,8,PG-13,"Documentary, Biography, Sport","37,580",83,Seth Gordon,0.68
+248,Sunshine,2007,107,7.2,U/A,"Sci-Fi, Thriller","267,544",64,Danny Boyle,3.68
+249,Knocked Up,2007,129,6.9,18,"Comedy, Romance","384,714",85,Judd Apatow,148.73
+250,Zodiac,2007,157,7.7,U/A,"Crime, Drama, Mystery","598,570",79,David Fincher,33.08
+251,Hot Fuzz,2007,121,7.8,A,"Action, Comedy, Mystery","535,418",81,Edgar Wright,23.64
+252,Once,2007,86,7.8,R,"Drama, Music, Romance","121,285",90,John Carney,9.44
+253,Apocalypto,2006,139,7.8,A,"Action, Adventure, Drama","331,404",68,Mel Gibson,50.87
+254,Letters from Iwo Jima,2006,141,7.8,U/A,"Action, Adventure, Drama","170,076",89,Clint Eastwood,13.76
+255,Casino Royale,2006,144,8,U/A,"Action, Adventure, Thriller","694,723",80,Martin Campbell,167.45
+256,The Prestige,2006,130,8.5,U,"Drama, Mystery, Sci-Fi","1,441,641",66,Christopher Nolan,53.09
+257,The Departed,2006,151,8.5,A,"Crime, Drama, Thriller","1,422,723",85,Martin Scorsese,132.38
+258,Jackass Number Two,2006,92,7,R,"Documentary, Action, Comedy","80,198",66,Jeff Tremaine,72.78
+259,This Is England,2006,101,7.7,A,"Crime, Drama","128,757",86,Shane Meadows,0.33
+260,Stranger Than Fiction,2006,113,7.5,PG-13,"Comedy, Drama, Fantasy","236,497",67,Marc Forster,40.14
+261,Rescue Dawn,2006,125,7.3,PG-13,"Adventure, Biography, War","110,818",77,Werner Herzog,5.49
+262,Children of Men,2006,109,7.9,A,"Action, Drama, Sci-Fi","529,533",84,Alfonso Cuarón,35.55
+263,The Last King of Scotland,2006,123,7.6,A,"Biography, Drama, History","196,062",74,Kevin Macdonald,17.61
+264,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,84,7.4,A,Comedy,"442,245",89,Larry Charles,128.51
+265,Pan's Labyrinth,2006,118,8.2,R,"Drama, Fantasy, War","703,174",98,Guillermo del Toro,37.63
+266,Babel,2006,143,7.5,A,Drama,"317,180",69,Alejandro G. Iñárritu,34.3
+267,Bug,2006,102,6.1,R,"Drama, Horror, Thriller","37,820",62,William Friedkin,7.01
+268,United 93,2006,111,7.6,U/A,"Action, Drama, History","110,953",90,Paul Greengrass,31.57
+269,Mission: Impossible III,2006,126,6.9,U/A,"Action, Adventure, Thriller","390,853",66,J.J. Abrams,134.03
+270,Inside Man,2006,129,7.6,18,"Crime, Drama, Mystery","398,040",76,Spike Lee,88.51
+271,The Lives of Others,2006,137,8.4,A,"Drama, Mystery, Thriller","410,603",89,Florian Henckel von Donnersmarck,11.29
+272,Half Nelson,2006,106,7.1,A,Drama,"91,966",85,Ryan Fleck,2.69
+273,Munich,2005,164,7.5,A,"Action, Drama, History","238,335",74,Steven Spielberg,47.4
+274,V for Vendetta,2005,132,8.2,U/A,"Action, Drama, Sci-Fi","1,179,579",62,James McTeigue,70.51
+275,King Kong,2005,187,7.2,U/A,"Action, Adventure, Romance","447,020",81,Peter Jackson,218.08
+276,Lord of War,2005,122,7.6,All,"Crime, Drama","337,020",62,Andrew Niccol,24.15
+277,The Proposition,2005,104,7.3,A,"Crime, Drama, Western","54,990",73,John Hillcoat,1.9
+278,Thank You for Smoking,2005,92,7.5,R,"Comedy, Drama","228,982",71,Jason Reitman,24.79
+279,Walk the Line,2005,136,7.8,U,"Biography, Drama, Music","265,884",72,James Mangold,119.52
+280,Brokeback Mountain,2005,134,7.7,A,"Drama, Romance","382,322",87,Ang Lee,83.04
+281,Serenity,2005,119,7.8,PG-13,"Action, Adventure, Sci-Fi","305,712",74,Joss Whedon,25.51
+282,The 40 Year Old Virgin,2005,116,7.1,U/A,"Comedy, Romance","467,241",73,Judd Apatow,109.45
+283,War of the Worlds,2005,116,6.5,U/A,"Action, Adventure, Sci-Fi","475,362",73,Steven Spielberg,234.28
+284,Batman Begins,2005,140,8.2,U/A,"Action, Crime, Drama","1,578,988",70,Christopher Nolan,206.85
+285,Cinderella Man,2005,144,8,U/A,"Biography, Drama, Romance","198,371",69,Ron Howard,61.65
+286,A History of Violence,2005,96,7.4,U/A,"Action, Crime, Drama","252,894",82,David Cronenberg,31.49
+287,Kiss Kiss Bang Bang,2005,103,7.5,U/A,"Comedy, Crime, Mystery","237,453",73,Shane Black,4.24
+288,Caché,2005,117,7.3,R,"Drama, Mystery, Thriller","85,249",87,Michael Haneke,3.63
+289,Star Wars: Episode III - Revenge of the Sith,2005,140,7.6,U,"Action, Adventure, Fantasy","845,696",68,George Lucas,380.26
+290,The Descent,2005,99,7.2,A,"Adventure, Horror, Thriller","247,017",71,Neil Marshall,26.02
+291,Brick,2005,110,7.1,R,"Crime, Drama, Mystery","110,064",72,Rian Johnson,2.06
+292,Grizzly Man,2005,103,7.8,R,"Documentary, Biography","61,904",87,Werner Herzog,3.17
+293,The Squid and the Whale,2005,81,7.3,R,"Comedy, Drama","90,455",82,Noah Baumbach,7.36
+294,The Aviator,2004,170,7.5,U/A,"Biography, Drama","384,160",77,Martin Scorsese,102.61
+295,The Life Aquatic with Steve Zissou,2004,119,7.2,R,"Action, Adventure, Comedy","210,992",62,Wes Anderson,24.01
+296,The Incredibles,2004,115,8,U,"Animation, Action, Adventure","809,015",90,Brad Bird,261.44
+297,Team America: World Police,2004,98,7.2,A,"Action, Comedy","178,614",64,Trey Parker,32.79
+298,Layer Cake,2004,105,7.3,U/A,"Action, Crime, Drama","195,657",73,Matthew Vaughn,2.34
+299,Sideways,2004,127,7.5,R,"Comedy, Drama, Romance","204,319",94,Alexander Payne,71.5
+300,Hotel Rwanda,2004,121,8.1,U/A,"Biography, Drama, History","372,326",79,Terry George,23.53
+301,Crash,2004,112,7.7,U/A,"Crime, Drama, Thriller","449,069",66,Paul Haggis,54.58
+302,Der Untergang,2004,156,8.2,U/A,"Biography, Drama, History","375,312",82,Oliver Hirschbiegel,5.51
+303,Kinsey,2004,118,7.1,R,"Biography, Drama, Romance","50,965",79,Bill Condon,10.21
+304,Collateral,2004,120,7.5,A,"Action, Crime, Drama","433,252",71,Michael Mann,101.01
+305,The Bourne Supremacy,2004,108,7.7,A,"Action, Mystery, Thriller","487,014",73,Paul Greengrass,176.24
+306,Spider-Man 2,2004,127,7.5,U,"Action, Adventure, Sci-Fi","708,950",83,Sam Raimi,373.59
+307,Anchorman: The Legend of Ron Burgundy,2004,94,7.1,U/A,Comedy,"378,657",63,Adam McKay,85.29
+308,Fahrenheit 9/11,2004,122,7.5,A,"Documentary, Drama, War","132,398",67,Michael Moore,119.19
+309,Kill Bill: Vol. 2,2004,137,8,A,"Action, Crime, Thriller","805,914",83,Quentin Tarantino,66.21
+310,Shaun of the Dead,2004,99,7.9,U/A,"Comedy, Horror","594,140",76,Edgar Wright,13.54
+311,Eternal Sunshine of the Spotless Mind,2004,108,8.3,U/A,"Drama, Romance, Sci-Fi","1,078,337",89,Michel Gondry,34.4
+312,Dig!,2004,107,7.7,R,"Documentary, Music","6,690",76,Ondi Timoner,0.13
+313,Napoleon Dynamite,2004,96,7,PG,Comedy,"237,841",64,Jared Hess,44.54
+314,Garden State,2004,102,7.4,R,"Comedy, Drama, Romance","223,221",67,Zach Braff,26.78
+315,The Lord of the Rings: The Return of the King,2003,201,9,U,"Action, Adventure, Drama","1,979,835",94,Peter Jackson,377.85
+316,Oldeuboi,2003,101,8.3,A,"Action, Drama, Mystery","636,112",78,Park Chan-wook,0.71
+317,Bad Santa,2003,92,7.1,R,"Comedy, Crime, Drama","155,184",70,Terry Zwigoff,60.06
+318,Master and Commander: The Far Side of the World,2003,138,7.5,PG-13,"Action, Adventure, Drama","237,997",81,Peter Weir,93.93
+319,Elf,2003,97,7.1,U,"Adventure, Comedy, Family","310,841",66,Jon Favreau,173.4
+320,Runaway Jury,2003,127,7.1,U/A,"Crime, Drama, Thriller","104,622",61,Gary Fleder,49.44
+321,Kill Bill: Vol. 1,2003,111,8.2,A,"Action, Crime, Thriller","1,194,427",69,Quentin Tarantino,70.1
+322,Grams,2003,124,7.6,U/A,"Crime, Drama, Thriller","245,888",70,Alejandro G. Iñárritu,16.29
+323,Lost in Translation,2003,102,7.7,U/A,"Comedy, Drama","489,260",91,Sofia Coppola,44.59
+324,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,8.1,U/A,"Action, Adventure, Fantasy","1,210,881",63,Gore Verbinski,305.41
+325,Mystic River,2003,138,7.9,A,"Crime, Drama, Mystery","485,961",84,Clint Eastwood,90.14
+326,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,107,8.1,PG-13,"Documentary, Biography, History","25,052",87,Errol Morris,4.2
+327,Dogville,2003,178,8,7,"Crime, Drama","158,697",61,Lars von Trier,1.53
+328,Salinui chueok,2003,131,8.1,U/A,"Crime, Drama, Mystery","216,555",82,Bong Joon Ho,0.01
+329,X2,2003,134,7.4,U/A,"Action, Sci-Fi, Thriller","576,324",68,Bryan Singer,214.95
+330,Ong-Bak,2003,108,7.1,R,"Action, Crime, Thriller","78,191",69,Prachya Pinkaew,4.56
+331,Catch Me If You Can,2002,141,8.1,A,"Biography, Crime, Drama","1,096,152",75,Steven Spielberg,164.62
+332,th Hour,2002,135,7.6,R,Drama,"184,683",69,Spike Lee,13.06
+333,Confessions of a Dangerous Mind,2002,113,7,R,"Biography, Comedy, Crime","92,012",67,George Clooney,16
+334,Gangs of New York,2002,167,7.5,A,"Crime, Drama","473,065",72,Martin Scorsese,77.81
+335,The Lord of the Rings: The Two Towers,2002,179,8.8,U/A,"Action, Adventure, Drama","1,784,414",87,Peter Jackson,342.55
+336,Adaptation.,2002,115,7.7,R,"Comedy, Drama","203,092",83,Spike Jonze,22.25
+337,Days Later...,2002,113,7.5,A,"Drama, Horror, Sci-Fi","445,970",73,Danny Boyle,45.06
+338,In America,2002,105,7.7,PG-13,Drama,"44,282",76,Jim Sheridan,15.54
+339,Mile,2002,110,7.2,U/A,"Drama, Music","321,018",77,Curtis Hanson,116.72
+340,Auto Focus,2002,105,6.6,R,"Biography, Crime, Drama","14,930",66,Paul Schrader,2.06
+341,Road to Perdition,2002,117,7.7,A,"Crime, Drama, Thriller","284,580",72,Sam Mendes,104.45
+342,Minority Report,2002,145,7.6,A,"Action, Crime, Mystery","584,512",80,Steven Spielberg,132.07
+343,The Bourne Identity,2002,119,7.8,U/A,"Action, Mystery, Thriller","576,420",68,Doug Liman,121.66
+344,Punch-Drunk Love,2002,95,7.3,R,"Comedy, Drama, Romance","177,523",78,Paul Thomas Anderson,17.84
+345,Bowling for Columbine,2002,120,8,U,"Documentary, Crime, Drama","148,760",72,Michael Moore,21.58
+346,Roger Dodger,2002,106,6.8,R,"Comedy, Drama","17,924",75,Dylan Kidd,1.27
+347,Insomnia,2002,118,7.2,U/A,"Drama, Mystery, Thriller","319,238",78,Christopher Nolan,67.36
+348,Spider-Man,2002,121,7.4,U,"Action, Adventure, Sci-Fi","880,105",73,Sam Raimi,403.71
+349,Hour Party People,2002,117,7.3,R,"Biography, Comedy, Drama","39,706",85,Michael Winterbottom,1.13
+350,Bloody Sunday,2002,111,7.6,R,"Drama, History, War","25,761",90,Paul Greengrass,0.77
+351,Narc,2002,105,7.1,R,"Crime, Drama, Mystery","43,088",70,Joe Carnahan,10.46
+352,Secretary,2002,107,6.9,A,"Comedy, Drama, Romance","98,629",63,Steven Shainberg,4.06
+353,Black Hawk Down,2001,144,7.7,A,"Action, Drama, History","423,730",74,Ridley Scott,108.64
+354,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.9,U,"Action, Adventure, Drama","2,007,770",92,Peter Jackson,315.54
+355,Ocean's Eleven,2001,116,7.7,U/A,"Crime, Thriller","619,436",74,Steven Soderbergh,183.42
+356,The Royal Tenenbaums,2001,110,7.6,A,"Comedy, Drama","313,257",76,Wes Anderson,52.36
+357,Zoolander,2001,90,6.5,U/A,Comedy,"291,990",61,Ben Stiller,45.17
+358,Training Day,2001,122,7.7,A,"Crime, Drama, Thriller","473,033",71,Antoine Fuqua,76.63
+359,Monsoon Wedding,2001,114,7.3,A,"Comedy, Drama, Romance","26,688",77,Mira Nair,13.88
+360,The Others,2001,101,7.6,13,"Horror, Mystery, Thriller","393,338",74,Alejandro Amenábar,96.52
+361,Sen to Chihiro no kamikakushi,2001,125,8.6,U,"Animation, Adventure, Family","849,820",96,Hayao Miyazaki,10.06
+362,Siu Lam juk kau,2001,113,7.3,U,"Action, Comedy, Fantasy","89,232",68,Stephen Chow,0.49
+363,A.I. Artificial Intelligence,2001,146,7.2,U,"Adventure, Drama, Sci-Fi","323,099",65,Steven Spielberg,78.62
+364,Mulholland Dr.,2001,147,7.9,U/A,"Drama, Mystery, Thriller","383,964",86,David Lynch,7.22
+365,The Man Who Wasn't There,2001,116,7.5,U,"Crime, Drama","115,019",73,Joel Coen,7.49
+366,Moulin Rouge!,2001,127,7.6,U/A,"Drama, Musical, Romance","299,409",66,Baz Luhrmann,57.39
+367,Le fabuleux destin d'Amélie Poulain,2001,122,8.3,U,"Comedy, Romance","794,384",70,Jean-Pierre Jeunet,33.23
+368,Donnie Darko,2001,113,8,U/A,"Drama, Mystery, Sci-Fi","850,305",88,Richard Kelly,1.48
+369,Thirteen Days,2000,145,7.3,PG-13,"Drama, History, Thriller","62,714",67,Roger Donaldson,34.59
+370,Cast Away,2000,143,7.8,U/A,"Adventure, Drama, Romance","638,876",74,Robert Zemeckis,233.63
+371,Traffic,2000,147,7.6,A,"Crime, Drama, Thriller","219,778",86,Steven Soderbergh,124.12
+372,Unbreakable,2000,106,7.3,U/A,"Drama, Mystery, Sci-Fi","441,964",62,M. Night Shyamalan,95.01
+373,Meet the Parents,2000,108,7,U/A,"Comedy, Romance","355,231",73,Jay Roach,166.24
+374,Sexy Beast,2000,89,7.3,R,"Crime, Drama, Thriller","69,292",79,Jonathan Glazer,6.95
+375,Almost Famous,2000,122,7.9,A,"Adventure, Comedy, Drama","293,500",90,Cameron Crowe,32.53
+376,Memento,2000,113,8.4,U/A,"Mystery, Thriller","1,323,292",83,Christopher Nolan,25.54
+377,Chopper,2000,94,7.1,A,"Biography, Crime, Drama","41,527",68,Andrew Dominik,0.23
+378,X-Men,2000,104,7.3,U/A,"Action, Adventure, Sci-Fi","646,771",64,Bryan Singer,157.3
+379,Wo hu cang long,2000,120,7.9,U/A,"Action, Adventure, Drama","281,666",94,Ang Lee,128.08
+380,Requiem for a Dream,2000,102,8.3,A,Drama,"899,035",71,Darren Aronofsky,3.64
+381,Amores perros,2000,154,8.1,A,"Drama, Thriller","252,947",83,Alejandro G. Iñárritu,5.38
+382,Nurse Betty,2000,110,6.3,R,"Comedy, Crime, Drama","36,197",69,Neil LaBute,25.17
+383,Gladiator,2000,155,8.5,U/A,"Action, Adventure, Drama","1,620,773",67,Ridley Scott,187.71
+384,High Fidelity,2000,113,7.4,R,"Comedy, Drama, Music","189,806",79,Stephen Frears,27.29
+385,Wonder Boys,2000,107,7.2,R,"Comedy, Drama","66,607",74,Curtis Hanson,19.39
+386,American Psycho,2000,102,7.6,A,"Crime, Drama, Horror","716,012",64,Mary Harron,15.07
+387,Galaxy Quest,1999,102,7.4,PG,"Adventure, Comedy, Sci-Fi","178,265",70,Dean Parisot,71.58
+388,Magnolia,1999,188,8,U/A,Drama,"328,585",78,Paul Thomas Anderson,22.46
+389,The Green Mile,1999,189,8.6,U/A,"Crime, Drama, Fantasy","1,407,906",61,Frank Darabont,136.8
+390,Sleepy Hollow,1999,105,7.3,U/A,"Fantasy, Horror, Mystery","383,983",65,Tim Burton,101.07
+391,The Insider,1999,157,7.8,U/A,"Biography, Drama, Thriller","180,254",85,Michael Mann,28.97
+392,Bringing Out the Dead,1999,121,6.8,R,"Drama, Thriller","76,069",72,Martin Scorsese,16.64
+393,Three Kings,1999,114,7.1,U/A,"Action, Adventure, Comedy","180,509",82,David O. Russell,60.65
+394,Fight Club,1999,139,8.8,A,Drama,"2,324,935",67,David Fincher,37.03
+395,American Beauty,1999,122,8.3,U/A,Drama,"1,211,265",84,Sam Mendes,130.1
+396,Being John Malkovich,1999,113,7.7,R,"Comedy, Drama, Fantasy","353,425",90,Spike Jonze,22.86
+397,A Room for Romeo Brass,1999,90,7.5,R,"Comedy, Drama","6,175",65,Shane Meadows,0.02
+398,Bowfinger,1999,97,6.5,A,Comedy,"73,963",73,Frank Oz,66.38
+399,The Sixth Sense,1999,107,8.2,A,"Drama, Mystery, Thriller","1,051,661",64,M. Night Shyamalan,293.51
+400,The Iron Giant,1999,86,8.1,U,"Animation, Action, Adventure","227,567",85,Brad Bird,23.16
+401,The Thomas Crown Affair,1999,113,6.8,U/A,"Crime, Romance, Thriller","100,610",72,John McTiernan,69.3
+402,Eyes Wide Shut,1999,159,7.5,18,"Drama, Mystery, Thriller","375,267",69,Stanley Kubrick,55.69
+403,"South Park: Bigger, Longer & Uncut",1999,81,7.7,A,"Animation, Comedy, Fantasy","215,015",73,Trey Parker,52.04
+404,The Virgin Suicides,1999,97,7.2,R,"Drama, Romance","169,270",77,Sofia Coppola,4.86
+405,The Limey,1999,89,6.9,R,"Crime, Drama, Mystery","34,839",73,Steven Soderbergh,3.19
+406,Notting Hill,1999,124,7.2,U,"Comedy, Drama, Romance","342,376",68,Roger Michell,116.09
+407,Election,1999,103,7.3,U/A,"Comedy, Romance","104,566",83,Alexander Payne,14.88
+408,Go,1999,102,7.2,R,"Comedy, Crime","75,168",74,Doug Liman,16.84
+409,American Movie,1999,107,7.8,R,"Documentary, Comedy","19,344",84,Chris Smith,1.16
+410,The Thin Red Line,1998,170,7.6,A,"Drama, History, War","199,644",78,Terrence Malick,36.4
+411,Rushmore,1998,93,7.6,U/A,"Comedy, Drama, Romance","198,026",87,Wes Anderson,17.11
+412,Ronin,1998,122,7.2,R,"Action, Crime, Thriller","195,206",67,John Frankenheimer,41.62
+413,A Simple Plan,1998,121,7.5,U/A,"Crime, Drama, Thriller","76,177",81,Sam Raimi,16.31
+414,"Lock, Stock and Two Smoking Barrels",1998,107,8.1,A,"Action, Comedy, Crime","616,463",67,Guy Ritchie,3.9
+415,Saving Private Ryan,1998,169,8.6,A,"Drama, War","1,496,929",91,Steven Spielberg,216.54
+416,American History X,1998,119,8.5,R,"Crime, Drama","1,186,595",62,Tony Kaye,6.72
+417,Out of Sight,1998,123,7,U/A,"Comedy, Crime, Drama","99,347",84,Steven Soderbergh,37.56
+418,The Truman Show,1998,103,8.2,U,"Comedy, Drama","1,196,946",90,Peter Weir,125.62
+419,The General,1998,124,7.2,R,"Biography, Crime, Drama","9,249",81,John Boorman,1.21
+420,Happiness,1998,134,7.7,U/A,"Comedy, Drama","74,448",81,Todd Solondz,2.81
+421,Dark City,1998,100,7.6,A,"Fantasy, Mystery, Sci-Fi","212,348",66,Alex Proyas,14.38
+422,Buffalo '66,1998,110,7.4,R,"Comedy, Drama, Romance","60,295",69,Vincent Gallo,2.38
+423,Snitch,1998,93,6.6,R,"Crime, Drama, Thriller","1,891",71,Ted Demme,0.33
+424,Wag the Dog,1997,97,7.1,R,"Comedy, Drama","88,484",74,Barry Levinson,43.02
+425,Jackie Brown,1997,154,7.5,U/A,"Crime, Drama, Thriller","375,125",62,Quentin Tarantino,39.67
+426,As Good as It Gets,1997,139,7.7,A,"Comedy, Drama, Romance","318,512",67,James L. Brooks,148.48
+427,Good Will Hunting,1997,126,8.3,U,"Drama, Romance","1,068,578",71,Gus Van Sant,138.43
+428,Titanic,1997,194,7.9,U/A,"Drama, Romance","1,280,858",75,James Cameron,659.33
+429,Boogie Nights,1997,155,7.9,18,Drama,"282,141",86,Paul Thomas Anderson,26.4
+430,Cube,1997,90,7.1,U/A,"Horror, Mystery, Sci-Fi","247,695",61,Vincenzo Natali,0.5
+431,GATTACA,1997,106,7.7,U/A,"Drama, Sci-Fi, Thriller","323,316",64,Andrew Niccol,12.34
+432,Affliction,1997,114,6.9,R,"Drama, Mystery, Thriller","19,100",79,Paul Schrader,6.3
+433,The Full Monty,1997,91,7.2,U/A,"Comedy, Drama","114,134",75,Peter Cattaneo,45.95
+434,Cop Land,1997,105,7,R,"Crime, Drama, Thriller","106,422",64,James Mangold,44.89
+435,Mononoke-hime,1997,134,8.3,U,"Animation, Action, Adventure","433,886",76,Hayao Miyazaki,2.38
+436,Men in Black,1997,98,7.3,U/A,"Action, Adventure, Comedy","613,116",72,Barry Sonnenfeld,250.69
+437,Face/Off,1997,138,7.3,A,"Action, Crime, Sci-Fi","401,009",82,John Woo,112.23
+438,The Sweet Hereafter,1997,112,7.4,R,Drama,"36,740",91,Atom Egoyan,3.25
+439,L.A. Confidential,1997,138,8.2,A,"Crime, Drama, Mystery","618,003",91,Curtis Hanson,64.62
+440,Grosse Pointe Blank,1997,107,7.3,U,"Action, Comedy, Crime","99,639",76,George Armitage,28.01
+441,Private Parts,1997,109,6.9,R,"Biography, Comedy, Drama","39,207",67,Betty Thomas,41.2
+442,Donnie Brasco,1997,127,7.7,A,"Biography, Crime, Drama","332,358",77,Mike Newell,41.91
+443,Chasing Amy,1997,113,7.2,R,"Comedy, Drama, Romance","143,828",71,Kevin Smith,12.02
+444,Scream,1996,111,7.4,A,"Horror, Mystery","388,569",66,Wes Craven,103.05
+445,Jerry Maguire,1996,139,7.3,U,"Comedy, Drama, Romance","287,105",77,Cameron Crowe,153.95
+446,The People vs. Larry Flynt,1996,130,7.3,A,"Biography, Drama","100,750",79,Milos Forman,20.19
+447,Swingers,1996,96,7.2,U/A,"Comedy, Drama","88,157",71,Doug Liman,4.51
+448,Sling Blade,1996,135,8,A,Drama,"98,823",85,Billy Bob Thornton,24.48
+449,Breaking the Waves,1996,159,7.8,R,Drama,"71,582",82,Lars von Trier,4.04
+450,Trainspotting,1996,93,8.1,A,Drama,"725,836",83,Danny Boyle,16.5
+451,Bottle Rocket,1996,91,6.9,R,"Comedy, Crime, Drama","83,536",67,Wes Anderson,0.56
+452,When We Were Kings,1996,88,7.9,PG,"Documentary, Sport","19,136",83,Leon Gast,2.79
+453,Freeway,1996,102,6.8,R,"Crime, Drama, Thriller","31,769",61,Matthew Bright,0.3
+454,Dead Man Walking,1995,122,7.5,A,"Crime, Drama","101,801",80,Tim Robbins,39.39
+455,Nixon,1995,192,7.1,R,"Biography, Drama, History","32,740",66,Oliver Stone,13.56
+456,Monkeys,1995,129,8,A,"Mystery, Sci-Fi, Thriller","646,846",75,Terry Gilliam,57.14
+457,Heat,1995,170,8.3,A,"Action, Crime, Drama","719,652",76,Michael Mann,67.44
+458,Toy Story,1995,81,8.3,U,"Animation, Adventure, Comedy","1,068,890",96,John Lasseter,191.8
+459,Casino,1995,178,8.2,A,"Crime, Drama","564,138",73,Martin Scorsese,42.44
+460,GoldenEye,1995,130,7.2,U/A,"Action, Adventure, Thriller","270,279",65,Martin Campbell,106.6
+461,Get Shorty,1995,105,6.9,U/A,"Comedy, Crime, Thriller","89,150",81,Barry Sonnenfeld,72.08
+462,Se7en,1995,127,8.6,A,"Crime, Drama, Mystery","1,799,669",65,David Fincher,100.13
+463,Leaving Las Vegas,1995,111,7.5,A,"Drama, Romance","134,712",82,Mike Figgis,32.03
+464,Strange Days,1995,145,7.2,A,"Crime, Drama, Sci-Fi","78,444",66,Kathryn Bigelow,7.92
+465,Apollo 13,1995,140,7.7,U,"Adventure, Drama, History","315,687",78,Ron Howard,173.84
+466,Braveheart,1995,178,8.3,A,"Biography, Drama, War","1,091,626",68,Mel Gibson,75.6
+467,Kids,1995,91,7,A,Drama,"84,671",63,Larry Clark,7.42
+468,The Usual Suspects,1995,106,8.5,A,"Crime, Drama, Mystery","1,145,731",76,Bryan Singer,23.34
+469,Interview with the Vampire: The Vampire Chronicles,1994,123,7.5,R,"Drama, Fantasy, Horror","347,600",62,Neil Jordan,105.26
+470,Ed Wood,1994,127,7.8,U/A,"Biography, Comedy, Drama","184,002",71,Tim Burton,5.89
+471,Quiz Show,1994,133,7.5,U,"Biography, Drama, History","73,353",92,Robert Redford,24.82
+472,Léon,1994,110,8.5,A,"Action, Crime, Drama","1,246,272",64,Luc Besson,19.5
+473,The Shawshank Redemption,1994,142,9.3,A,Drama,"2,889,789",82,Frank Darabont,28.34
+474,Crumb,1994,119,8,R,"Documentary, Biography, Comedy","21,596",93,Terry Zwigoff,3.17
+475,Swimming with Sharks,1994,93,7,A,"Comedy, Crime","25,021",66,George Huang,0.38
+476,Natural Born Killers,1994,119,7.2,A,"Action, Crime, Romance","251,861",74,Oliver Stone,50.28
+477,True Lies,1994,141,7.3,A,"Action, Comedy, Thriller","281,059",63,James Cameron,146.28
+478,Heavenly Creatures,1994,99,7.3,U/A,"Biography, Crime, Drama","67,421",86,Peter Jackson,3.05
+479,Forrest Gump,1994,142,8.8,U/A,"Drama, Romance","2,257,976",82,Robert Zemeckis,330.25
+480,Speed,1994,116,7.3,A,"Action, Adventure, Thriller","392,040",78,Jan de Bont,121.25
+481,Pulp Fiction,1994,154,8.9,A,"Crime, Drama","2,221,075",95,Quentin Tarantino,107.93
+482,Shallow Grave,1994,89,7.3,R,"Crime, Drama, Thriller","66,248",67,Danny Boyle,2.88
+483,Trois couleurs: Rouge,1994,99,8.1,U,"Drama, Mystery, Romance","110,039",100,Krzysztof Kieslowski,4.04
+484,The Last Seduction,1994,110,7,R,"Crime, Drama, Romance","25,804",85,John Dahl,6.14
+485,The Crow,1994,102,7.5,A,"Action, Crime, Drama","203,255",71,Alex Proyas,50.69
+486,Trois couleurs: Blanc,1994,92,7.6,U,"Comedy, Drama, Romance","79,635",91,Krzysztof Kieslowski,1.46
+487,Clerks,1994,92,7.7,U,Comedy,"232,409",70,Kevin Smith,3.15
+488,Four Weddings and a Funeral,1994,117,7.1,A,"Comedy, Drama, Romance","166,203",81,Mike Newell,52.7
+489,Philadelphia,1993,125,7.7,U/A,Drama,"258,156",66,Jonathan Demme,77.32
+490,In the Name of the Father,1993,133,8.1,U/A,"Biography, Crime, Drama","187,160",84,Jim Sheridan,25.01
+491,Schindler's List,1993,195,9,A,"Biography, Drama, History","1,451,267",95,Steven Spielberg,96.9
+492,Carlito's Way,1993,144,7.9,A,"Crime, Drama, Thriller","232,444",66,Brian De Palma,36.95
+493,A Bronx Tale,1993,121,7.8,R,"Crime, Drama","161,207",80,Robert De Niro,17.27
+494,Short Cuts,1993,188,7.6,R,"Comedy, Drama","47,387",81,Robert Altman,6.11
+495,Trois couleurs: Bleu,1993,94,7.8,U,"Drama, Music, Mystery","110,528",87,Krzysztof Kieslowski,1.32
+496,The Fugitive,1993,130,7.8,U,"Action, Crime, Drama","318,768",87,Andrew Davis,183.88
+497,In the Line of Fire,1993,128,7.2,U/A,"Action, Crime, Drama","113,763",74,Wolfgang Petersen,102.31
+498,Jurassic Park,1993,127,8.2,U/A,"Action, Adventure, Sci-Fi","1,067,514",68,Steven Spielberg,402.45
+499,Groundhog Day,1993,101,8,U,"Comedy, Drama, Fantasy","685,280",72,Harold Ramis,70.91
+500,The Muppet Christmas Carol,1992,85,7.8,U/A,"Comedy, Drama, Family","70,651",64,Brian Henson,27.28
+501,A Few Good Men,1992,138,7.7,U,"Drama, Thriller","287,438",62,Rob Reiner,141.34
+502,El mariachi,1992,81,6.8,R,"Action, Crime, Thriller","71,315",73,Robert Rodriguez,2.04
+503,The Crying Game,1992,112,7.2,U/A,"Crime, Drama, Romance","60,072",90,Neil Jordan,62.55
+504,Glengarry Glen Ross,1992,100,7.7,R,"Crime, Drama, Mystery","116,279",84,James Foley,10.73
+505,The Last of the Mohicans,1992,112,7.7,U/A,"Action, Adventure, Drama","187,715",76,Michael Mann,75.51
+506,Unforgiven,1992,130,8.2,A,"Drama, Western","436,296",85,Clint Eastwood,101.16
+507,Batman Returns,1992,126,7.1,U,"Action, Crime, Fantasy","327,560",68,Tim Burton,162.83
+508,Bad Lieutenant,1992,96,7,A,"Crime, Drama, Thriller","47,934",70,Abel Ferrara,2
+509,Deep Cover,1992,107,7,A,"Action, Crime, Thriller","14,059",67,Bill Duke,16.64
+510,The Player,1992,124,7.5,U/A,"Comedy, Crime, Drama","65,808",86,Robert Altman,21.71
+511,Reservoir Dogs,1992,99,8.3,15+,"Crime, Thriller","1,088,547",81,Quentin Tarantino,2.83
+512,JFK,1991,189,8,U/A,"Drama, History, Thriller","169,963",72,Oliver Stone,70.41
+513,Bugsy,1991,136,6.8,R,"Biography, Crime, Drama","31,004",80,Barry Levinson,49.11
+514,Cape Fear,1991,128,7.3,R,"Crime, Thriller","216,749",73,Martin Scorsese,79.1
+515,The Fisher King,1991,137,7.5,A,"Comedy, Drama, Fantasy","90,892",67,Terry Gilliam,41.9
+516,Bill & Ted's Bogus Journey,1991,93,6.3,U,"Adventure, Comedy, Fantasy","81,077",61,Peter Hewitt,38.04
+517,Terminator 2: Judgment Day,1991,137,8.6,A,"Action, Adventure, Sci-Fi","1,174,479",75,James Cameron,204.84
+518,The Naked Gun 2½: The Smell of Fear,1991,85,6.9,U,"Comedy, Crime","122,255",65,David Zucker,86.93
+519,Jungle Fever,1991,132,6.6,R,"Drama, Romance","19,665",78,Spike Lee,32.48
+520,Boyz n the Hood,1991,112,7.8,A,"Crime, Drama","154,688",76,John Singleton,57.5
+521,The Silence of the Lambs,1991,118,8.6,A,"Crime, Drama, Thriller","1,548,707",86,Jonathan Demme,130.74
+522,Awakenings,1990,121,7.8,U,"Biography, Drama","158,809",74,Penny Marshall,52.1
+523,Edward Scissorhands,1990,105,7.9,U,"Drama, Fantasy, Romance","523,980",74,Tim Burton,56.36
+524,Misery,1990,107,7.8,A,"Drama, Thriller","235,671",75,Rob Reiner,61.28
+525,Home Alone,1990,103,7.7,U,"Comedy, Family","652,963",63,Chris Columbus,285.76
+526,Jacob's Ladder,1990,113,7.4,A,"Drama, Horror, Mystery","117,923",62,Adrian Lyne,26.12
+527,Dances with Wolves,1990,181,8,U,"Adventure, Drama, Western","290,756",72,Kevin Costner,184.21
+528,Goodfellas,1990,145,8.7,A,"Biography, Crime, Drama","1,257,780",92,Martin Scorsese,46.84
+529,Die Hard 2,1990,124,7.1,A,"Action, Thriller","383,174",67,Renny Harlin,117.54
+530,King of New York,1990,103,6.9,A,"Crime, Thriller","42,120",66,Abel Ferrara,2.55
+531,Glory,1989,122,7.8,U,"Biography, Drama, History","144,481",78,Edward Zwick,26.83
+532,Roger & Me,1989,91,7.5,U,Documentary,"27,516",70,Michael Moore,6.71
+533,The Abyss,1989,140,7.5,U,"Adventure, Drama, Mystery","193,456",62,James Cameron,54.46
+534,When Harry Met Sally...,1989,95,7.7,U/A,"Comedy, Drama, Romance","242,820",76,Rob Reiner,92.82
+535,Lethal Weapon 2,1989,114,7.3,A,"Action, Crime, Thriller","188,893",70,Richard Donner,147.25
+536,Batman,1989,126,7.5,U,"Action, Adventure","404,364",69,Tim Burton,251.19
+537,Dead Poets Society,1989,128,8.1,U,"Comedy, Drama","546,336",79,Peter Weir,95.86
+538,Indiana Jones and the Last Crusade,1989,127,8.2,U,"Action, Adventure","811,133",65,Steven Spielberg,197.17
+539,Do the Right Thing,1989,120,8,U,"Comedy, Drama","112,459",93,Spike Lee,27.55
+540,Say Anything...,1989,100,7.3,U,"Comedy, Drama, Romance","95,958",86,Cameron Crowe,20.78
+541,My Left Foot: The Story of Christy Brown,1989,103,7.8,U,"Biography, Drama","79,809",97,Jim Sheridan,14.74
+542,Dirty Rotten Scoundrels,1988,110,7.4,U,"Comedy, Crime","78,085",68,Frank Oz,42.04
+543,Rain Man,1988,133,8,U,Drama,"546,756",65,Barry Levinson,178.8
+544,The Naked Gun: From the Files of Police Squad!,1988,85,7.6,U,"Comedy, Crime","185,051",76,David Zucker,78.76
+545,Mississippi Burning,1988,128,7.8,A,"Crime, Drama, Mystery","111,085",65,Alan Parker,34.6
+546,Heathers,1988,103,7.2,U/A,"Comedy, Crime","115,916",72,Michael Lehmann,1.11
+547,Nuovo Cinema Paradiso,1988,174,8.5,U,"Drama, Romance","283,015",80,Giuseppe Tornatore,11.99
+548,Die Hard,1988,132,8.2,A,"Action, Thriller","945,849",72,John McTiernan,83.01
+549,Midnight Run,1988,126,7.5,A,"Action, Comedy, Crime","94,267",78,Martin Brest,38.41
+550,Who Framed Roger Rabbit,1988,104,7.7,U,"Animation, Adventure, Comedy","216,920",83,Robert Zemeckis,156.45
+551,Big,1988,104,7.3,U,"Comedy, Drama, Fantasy","240,036",73,Penny Marshall,114.97
+552,Biloxi Blues,1988,106,6.6,U,"Comedy, Drama","16,507",61,Mike Nichols,43.18
+553,"Good Morning, Vietnam",1987,121,7.3,U,"Biography, Comedy, Drama","153,866",67,Barry Levinson,123.92
+554,Broadcast News,1987,133,7.3,A,"Comedy, Drama, Romance","34,132",84,James L. Brooks,51.25
+555,Empire of the Sun,1987,153,7.7,U,"Drama, War","134,343",62,Steven Spielberg,22.24
+556,The Princess Bride,1987,98,8,U,"Adventure, Comedy, Family","451,056",78,Rob Reiner,30.86
+557,Near Dark,1987,94,6.9,U/A,Horror,"44,760",78,Kathryn Bigelow,3.37
+558,House of Games,1987,102,7.2,U,"Crime, Thriller","24,039",78,David Mamet,2.59
+559,No Way Out,1987,114,7.1,U/A,"Action, Crime, Drama","45,996",77,Roger Donaldson,35.51
+560,The Lost Boys,1987,97,7.2,U/A,"Comedy, Horror","161,225",63,Joel Schumacher,32.22
+561,RoboCop,1987,102,7.6,U/A,"Action, Crime, Sci-Fi","283,227",70,Paul Verhoeven,53.42
+562,Full Metal Jacket,1987,116,8.3,U/A,"Drama, War","790,656",78,Stanley Kubrick,46.36
+563,The Untouchables,1987,119,7.8,A,"Crime, Drama, Thriller","330,892",79,Brian De Palma,76.27
+564,Evil Dead II,1987,84,7.7,A,"Comedy, Horror","181,975",72,Sam Raimi,5.92
+565,Angel Heart,1987,113,7.2,A,"Horror, Mystery, Thriller","95,852",61,Alan Parker,17.19
+566,Lethal Weapon,1987,109,7.6,U/A,"Action, Crime, Thriller","276,439",68,Richard Donner,65.21
+567,Platoon,1986,120,8.1,U/A,"Drama, War","439,654",92,Oliver Stone,138.53
+568,The Color of Money,1986,119,7,A,"Drama, Sport","93,290",77,Martin Scorsese,52.29
+569,Henry: Portrait of a Serial Killer,1986,83,7,A,"Biography, Crime, Drama","40,463",80,John McNaughton,0.61
+570,Blue Velvet,1986,120,7.7,A,"Crime, Drama, Mystery","215,777",75,David Lynch,8.55
+571,The Fly,1986,96,7.6,A,"Drama, Horror, Sci-Fi","201,995",81,David Cronenberg,40.46
+572,Manhunter,1986,120,7.2,A,"Crime, Mystery, Thriller","80,960",75,Michael Mann,8.62
+573,Stand by Me,1986,89,8.1,U,"Adventure, Comedy, Drama","441,770",75,Rob Reiner,52.29
+574,Aliens,1986,137,8.4,U,"Action, Adventure, Sci-Fi","763,344",84,James Cameron,85.16
+575,Ferris Bueller's Day Off,1986,103,7.8,U,Comedy,"386,590",61,John Hughes,70.14
+576,Mona Lisa,1986,104,7.3,A,"Crime, Drama, Romance","18,713",85,Neil Jordan,5.79
+577,After Hours,1985,97,7.6,U/A,"Comedy, Crime, Drama","81,447",89,Martin Scorsese,10.6
+578,Back to the Future,1985,116,8.5,U,"Adventure, Comedy, Sci-Fi","1,307,330",87,Robert Zemeckis,210.61
+579,The Goonies,1985,114,7.7,U,"Adventure, Comedy, Family","298,500",62,Richard Donner,61.5
+580,Fletch,1985,98,6.9,U,"Comedy, Crime, Mystery","57,940",68,Michael Ritchie,50.61
+581,Re-Animator,1985,84,7.2,A,"Comedy, Horror, Sci-Fi","71,529",73,Stuart Gordon,2.02
+582,Brazil,1985,132,7.9,U,"Drama, Sci-Fi, Thriller","211,270",84,Terry Gilliam,9.93
+583,The Breakfast Club,1985,97,7.8,U/A,"Comedy, Drama","436,685",66,John Hughes,45.88
+584,Witness,1985,112,7.4,U,"Drama, Romance, Thriller","104,696",76,Peter Weir,68.71
+585,Beverly Hills Cop,1984,105,7.4,A,"Action, Comedy, Crime","203,371",66,Martin Brest,234.76
+586,A Nightmare on Elm Street,1984,91,7.4,A,Horror,"262,600",76,Wes Craven,25.5
+587,The Terminator,1984,107,8.1,A,"Action, Adventure, Sci-Fi","924,495",84,James Cameron,38.4
+588,Amadeus,1984,160,8.4,R,"Biography, Drama, Music","428,187",87,Milos Forman,51.97
+589,Gremlins,1984,106,7.3,U/A,"Comedy, Fantasy, Horror","247,870",70,Joe Dante,148.17
+590,Ghostbusters,1984,105,7.8,U/A,"Action, Comedy, Fantasy","450,410",71,Ivan Reitman,238.63
+591,Once Upon a Time in America,1984,229,8.3,A,"Crime, Drama","377,843",75,Sergio Leone,5.32
+592,"Paris, Texas",1984,145,8.1,U,Drama,"119,046",81,Wim Wenders,2.18
+593,Scarface,1983,170,8.3,A,"Crime, Drama","916,855",65,Brian De Palma,45.6
+594,Terms of Endearment,1983,132,7.4,A,"Comedy, Drama","65,497",79,James L. Brooks,108.42
+595,The Right Stuff,1983,193,7.8,U/A,"Adventure, Biography, Drama","65,363",91,Philip Kaufman,21.5
+596,The Dead Zone,1983,103,7.2,A,"Drama, Horror, Sci-Fi","77,341",69,David Cronenberg,20.77
+597,Risky Business,1983,99,6.8,U/A,"Comedy, Crime, Drama","99,878",75,Paul Brickman,63.5
+598,The Man with Two Brains,1983,93,6.4,U/A,"Comedy, Romance, Sci-Fi","27,896",61,Carl Reiner,10.1
+599,The King of Comedy,1982,109,7.8,U,"Comedy, Crime, Drama","119,225",73,Martin Scorsese,2.5
+600,Tootsie,1982,116,7.4,U,"Comedy, Drama, Romance","114,699",88,Sydney Pollack,177.2
+601,First Blood,1982,93,7.7,A,"Action, Adventure, Thriller","275,665",61,Ted Kotcheff,47.21
+602,Fast Times at Ridgemont High,1982,90,7.1,U/A,"Comedy, Drama","115,798",61,Amy Heckerling,27.09
+603,An Officer and a Gentleman,1982,124,7.1,A,"Drama, Romance","62,628",75,Taylor Hackford,129.8
+604,Blade Runner,1982,117,8.1,U/A,"Action, Drama, Sci-Fi","823,329",84,Ridley Scott,32.87
+605,E.T. the Extra-Terrestrial,1982,115,7.9,U,"Adventure, Family, Sci-Fi","437,673",92,Steven Spielberg,435.11
+606,Poltergeist,1982,114,7.3,A,"Horror, Thriller","179,630",79,Tobe Hooper,76.61
+607,Mad Max 2,1981,96,7.6,U/A,"Action, Adventure, Sci-Fi","193,776",77,George Miller,12.47
+608,The Evil Dead,1981,85,7.4,A,Horror,"232,466",71,Sam Raimi,2.4
+609,Das Boot,1981,149,8.4,R,"Drama, War","264,403",85,Wolfgang Petersen,11.49
+610,Body Heat,1981,113,7.4,18,"Crime, Drama, Romance","40,152",77,Lawrence Kasdan,24.06
+611,Time Bandits,1981,116,6.9,U,"Adventure, Comedy, Fantasy","68,375",79,Terry Gilliam,42.37
+612,Blow Out,1981,108,7.4,A,"Crime, Drama, Mystery","63,321",86,Brian De Palma,13.75
+613,Raiders of the Lost Ark,1981,115,8.4,A,"Action, Adventure","1,037,105",86,Steven Spielberg,248.16
+614,Superman II,1980,127,6.8,U,"Action, Adventure, Sci-Fi","114,658",83,Richard Lester,108.19
+615,Raging Bull,1980,129,8.1,A,"Biography, Drama, Sport","380,345",90,Martin Scorsese,23.38
+616,The Shining,1980,146,8.4,A,"Drama, Horror","1,107,106",68,Stanley Kubrick,44.02
+617,Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,U/A,"Action, Adventure, Fantasy","1,380,183",82,Irvin Kershner,290.48
+618,Kramer vs. Kramer,1979,105,7.8,U,Drama,"154,760",77,Robert Benton,106.26
+619,Escape from Alcatraz,1979,112,7.6,U,"Action, Biography, Crime","147,481",76,Don Siegel,43
+620,Alien,1979,117,8.5,R,"Horror, Sci-Fi","951,241",89,Ridley Scott,78.9
+621,Apocalypse Now,1979,147,8.4,R,"Drama, Mystery, War","710,488",94,Francis Ford Coppola,83.47
+622,Mad Max,1979,88,6.8,U,"Action, Adventure, Sci-Fi","222,472",73,George Miller,8.75
+623,The China Syndrome,1979,122,7.4,U,"Drama, Thriller","33,047",81,James Bridges,51.72
+624,The Warriors,1979,93,7.5,U/A,"Action, Crime, Thriller","110,727",65,Walter Hill,22.49
+625,Invasion of the Body Snatchers,1978,115,7.4,A,"Horror, Sci-Fi","69,888",75,Philip Kaufman,24.95
+626,Superman,1978,143,7.4,U,"Action, Adventure, Sci-Fi","187,581",82,Richard Donner,134.22
+627,The Deer Hunter,1978,183,8.1,A,"Drama, War","362,327",90,Michael Cimino,48.98
+628,Dawn of the Dead,1978,127,7.8,A,"Horror, Thriller","128,636",71,George A. Romero,5.1
+629,Saturday Night Fever,1977,118,6.8,R,"Drama, Music","87,536",77,John Badham,94.21
+630,Close Encounters of the Third Kind,1977,138,7.6,U,"Drama, Sci-Fi","216,953",90,Steven Spielberg,132.09
+631,Star Wars,1977,121,8.6,U,"Action, Adventure, Fantasy","1,450,046",90,George Lucas,322.74
+632,Annie Hall,1977,93,8,A,"Comedy, Romance","278,486",92,Woody Allen,39.2
+633,Eraserhead,1977,89,7.3,18,"Fantasy, Horror","127,520",87,David Lynch,7
+634,Slap Shot,1977,123,7.3,U/A,"Comedy, Drama, Sport","41,250",61,George Roy Hill,28
+635,Rocky,1976,120,8.1,U,"Drama, Sport","628,623",70,John G. Avildsen,117.24
+636,Carrie,1976,98,7.4,A,"Horror, Mystery","206,741",86,Brian De Palma,33.8
+637,Marathon Man,1976,125,7.4,A,"Crime, Drama, Thriller","70,242",64,John Schlesinger,21.71
+638,The Omen,1976,111,7.5,A,"Horror, Mystery","132,624",62,Richard Donner,4.27
+639,Bugsy Malone,1976,93,6.8,U,"Comedy, Crime, Family","19,457",71,Alan Parker,2.78
+640,All the President's Men,1976,138,7.9,U,"Drama, History, Thriller","126,089",84,Alan J. Pakula,70.6
+641,Taxi Driver,1976,114,8.2,A,"Crime, Drama","921,080",94,Martin Scorsese,28.26
+642,One Flew Over the Cuckoo's Nest,1975,133,8.7,A,Drama,"1,072,665",84,Milos Forman,112
+643,Dog Day Afternoon,1975,125,8,U,"Biography, Crime, Drama","273,133",86,Sidney Lumet,50
+644,Jaws,1975,124,8.1,A,"Adventure, Mystery, Thriller","659,667",87,Steven Spielberg,260
+645,The Godfather Part II,1974,202,9,A,"Crime, Drama","1,364,666",90,Francis Ford Coppola,57.3
+646,The Texas Chain Saw Massacre,1974,83,7.4,A,Horror,"183,712",90,Tobe Hooper,30.86
+647,The Taking of Pelham One Two Three,1974,104,7.6,U,"Action, Crime, Thriller","35,826",68,Joseph Sargent,2.49
+648,The Conversation,1974,113,7.7,U,"Drama, Mystery, Thriller","121,911",87,Francis Ford Coppola,4.42
+649,Blazing Saddles,1974,93,7.7,A,"Comedy, Western","152,541",73,Mel Brooks,119.5
+650,The Exorcist,1973,122,8.1,A,Horror,"455,118",83,William Friedkin,232.91
+651,The Sting,1973,129,8.3,U,"Comedy, Crime, Drama","279,978",83,George Roy Hill,159.6
+652,Sleeper,1973,89,7.1,A,"Comedy, Sci-Fi","44,830",77,Woody Allen,2.91
+653,The Wicker Man,1973,88,7.5,U/A,"Horror, Mystery, Thriller","92,335",87,Robin Hardy,0.06
+654,Westworld,1973,88,6.9,U,"Action, Drama, Sci-Fi","62,985",77,Michael Crichton,16.06
+655,Don't Look Now,1973,110,7.1,U,"Drama, Horror, Mystery","62,346",95,Nicolas Roeg,0.98
+656,Mean Streets,1973,112,7.2,A,"Crime, Drama, Thriller","119,693",96,Martin Scorsese,3.13
+657,Enter the Dragon,1973,102,7.6,A,"Action, Crime, Thriller","113,018",83,Robert Clouse,25
+658,Paper Moon,1973,102,8.1,U,"Comedy, Crime, Drama","52,472",77,Peter Bogdanovich,30.93
+659,The Long Goodbye,1973,112,7.5,A,"Comedy, Crime, Drama","37,298",87,Robert Altman,0.96
+660,Deliverance,1972,109,7.7,U,"Adventure, Drama, Thriller","119,298",80,John Boorman,7.06
+661,Frenzy,1972,116,7.4,A,Thriller,"49,427",92,Alfred Hitchcock,12.6
+662,The Godfather,1972,175,9.2,A,"Crime, Drama","2,013,277",100,Francis Ford Coppola,134.97
+663,A Clockwork Orange,1971,136,8.3,A,"Crime, Sci-Fi","881,526",77,Stanley Kubrick,6.21
+664,The French Connection,1971,104,7.7,A,"Action, Crime, Drama","135,747",94,William Friedkin,15.63
+665,Willy Wonka & the Chocolate Factory,1971,100,7.8,U,"Family, Fantasy, Musical","227,428",67,Mel Stuart,4
+666,Get Carter,1971,112,7.3,U/A,"Action, Crime, Thriller","36,792",80,Mike Hodges,0.39
+667,El Topo,1970,125,7.2,A,"Drama, Western","31,396",65,Alejandro Jodorowsky,0.04
+668,On Her Majesty's Secret Service,1969,142,6.7,U,"Action, Adventure, Thriller","99,474",61,Peter R. Hunt,22.8
+669,Butch Cassidy and the Sundance Kid,1969,110,8,U,"Biography, Crime, Drama","226,764",66,George Roy Hill,102.31
+670,Midnight Cowboy,1969,113,7.8,A,Drama,"120,874",79,John Schlesinger,44.79
+671,Easy Rider,1969,95,7.2,A,"Adventure, Drama","116,971",85,Dennis Hopper,41.73
+672,The Wild Bunch,1969,145,7.9,A,"Action, Adventure, Drama","90,390",98,Sam Peckinpah,12.06
+673,Once Upon a Time in the West,1968,166,8.5,U,Western,"349,166",82,Sergio Leone,5.32
+674,Night of the Living Dead,1968,96,7.8,A,"Horror, Thriller","139,184",89,George A. Romero,0.09
+675,A Space Odyssey,1968,149,8.3,U,"Adventure, Sci-Fi","719,759",84,Stanley Kubrick,56.95
+676,Planet of the Apes,1968,112,8,U,"Adventure, Sci-Fi","193,378",79,Franklin J. Schaffner,33.4
+677,The Graduate,1967,106,8,A,"Comedy, Drama, Romance","288,487",83,Mike Nichols,104.95
+678,The Producers,1967,88,7.5,U,"Comedy, Music","59,847",96,Mel Brooks,0.11
+679,Cool Hand Luke,1967,127,8.1,U,"Crime, Drama","188,580",92,Stuart Rosenberg,16.22
+680,The Jungle Book,1967,78,7.6,U,"Animation, Adventure, Comedy","198,721",65,Wolfgang Reitherman,141.84
+681,The Dirty Dozen,1967,150,7.7,U,"Action, Adventure, War","79,114",73,Robert Aldrich,45.3
+682,You Only Live Twice,1967,117,6.8,A,"Action, Adventure, Thriller","117,570",61,Lewis Gilbert,43.08
+683,"Il buono, il brutto, il cattivo",1966,161,8.8,A,"Adventure, Western","811,482",90,Sergio Leone,6.1
+684,Django,1966,91,7.2,A,"Action, Drama, Western","31,012",75,Sergio Corbucci,0.03
+685,Per qualche dollaro in più,1965,132,8.2,U,"Drama, Western","274,766",74,Sergio Leone,15
+686,The Sound of Music,1965,172,8.1,U,"Biography, Drama, Family","261,142",63,Robert Wise,163.21
+687,Goldfinger,1964,110,7.7,A,"Action, Adventure, Thriller","202,605",87,Guy Hamilton,51.08
+688,Per un pugno di dollari,1964,99,7.9,A,"Action, Drama, Western","232,778",65,Sergio Leone,14.5
+689,Mary Poppins,1964,139,7.8,U,"Comedy, Family, Fantasy","186,093",88,Robert Stevenson,102.27
+690,A Hard Day's Night,1964,87,7.5,U,"Comedy, Musical","48,106",96,Richard Lester,13.78
+691,From Russia with Love,1963,115,7.3,A,"Action, Adventure, Thriller","145,401",83,Terence Young,24.8
+692,The Great Escape,1963,172,8.2,U,"Adventure, Drama, Thriller","258,981",86,John Sturges,12.1
+693,Lawrence of Arabia,1962,218,8.3,U,"Adventure, Biography, Drama","314,463",100,David Lean,44.82
+694,Dr. No,1962,110,7.2,A,"Action, Adventure, Thriller","179,451",78,Terence Young,16.07
+695,The Hustler,1961,134,8,A,"Drama, Sport","86,807",90,Robert Rossen,8.28
+696,Psycho,1960,109,8.5,A,"Horror, Mystery, Thriller","718,490",97,Alfred Hitchcock,32
+697,The Apartment,1960,125,8.3,U,"Comedy, Drama, Romance","196,908",94,Billy Wilder,18.6
+698,Ben-Hur,1959,212,8.1,U,"Adventure, Drama","253,716",90,William Wyler,74.7
+699,North by Northwest,1959,136,8.3,U,"Action, Adventure, Mystery","346,275",98,Alfred Hitchcock,13.28
+700,Vertigo,1958,128,8.3,A,"Mystery, Romance, Thriller","427,059",100,Alfred Hitchcock,3.2
+701,Touch of Evil,1958,95,8,PG-13,"Crime, Drama, Film-Noir","109,827",99,Orson Welles,2.24
+702,Witness for the Prosecution,1957,116,8.4,U,"Crime, Drama, Mystery","137,905",76,Billy Wilder,8.18
+703,Angry Men,1957,96,9,U,"Crime, Drama","865,462",97,Sidney Lumet,4.36
+704,Rear Window,1954,112,8.5,U,"Mystery, Thriller","522,231",100,Alfred Hitchcock,36.76
+705,On the Waterfront,1954,108,8.1,A,"Crime, Drama, Thriller","164,958",91,Elia Kazan,9.6
+706,Shichinin no samurai,1954,207,8.6,U,"Action, Drama","366,935",98,Akira Kurosawa,0.27
+707,The Third Man,1949,104,8.1,U,"Film-Noir, Mystery, Thriller","181,869",97,Carol Reed,0.45
+708,Casablanca,1942,102,8.5,U,"Drama, Romance, War","606,165",100,Michael Curtiz,1.02
+709,Citizen Kane,1941,119,8.3,U/A,"Drama, Mystery","466,077",100,Orson Welles,1.59
+710,Mr. Smith Goes to Washington,1939,129,8.1,U,"Comedy, Drama","121,413",73,Frank Capra,9.6
